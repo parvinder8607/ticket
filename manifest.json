@@ -1,0 +1,46 @@
+
+{
+  "name": "Chartr",
+  "short_name": "Chartr",
+  "description": "Official DTC Ticket App.",
+  "version": "1.0.0",
+  "author": "DTC",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    
+   
+    {
+      "src": "assets/logo/logo.png",
+      "sizes": "320x320",
+      "type": "image/png",
+      "purpose": "any"
+    }
+
+  ],
+  "screenshots": [
+    {
+      "src": "assets/screenshots/screenshot1.png",
+      "sizes": "1903x916",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "assets/screenshots/screenshot2.png",
+      "sizes": "320x682",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "assets/screenshots/screenshot3.png",
+      "sizes": "320x320",
+      "type": "image/png",
+      "form_factor": "sqaure"
+    }
+  ],
+  "permissions": [],
+  "orientation": "portrait-primary",
+  "lang": "en-US"
+}
