@@ -2,10 +2,12 @@ const CACHE_NAME = 'pwa-cache-v1';
 const urlsToCache = [
   './',
   './index.html',
-  './static/js/bundle.js',
-  './static/css/main.css',
-  './favicon.ico',
-  './logo192.png',
+  './assets/images/alert.png',
+  './assets/images/bottom.svg',
+  './assets/images/logo.avif',
+  './assets/images/qr.png',
+  './assets/index-BSDULDE0.js',
+  './assets/index-Fy3bAEzt.css',
   './manifest.json',
 ];
 
