@@ -6,7 +6,7 @@ const urlsToCache = [
   './assets/images/bottom.svg',
   './assets/images/logo.avif',
   './assets/images/qr.png',
-  './assets/index-Dyyvgbgj.js',
+  './assets/index-E0gQN3h4.js',
   './assets/index-DzoiQYD8.css',
   './manifest.json',
 ];
