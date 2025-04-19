@@ -9,6 +9,7 @@ const urlsToCache = [
   './assets/images/metro.jpeg',
   './assets/images/reload.png',
   './assets/images/secure.png',
+  './assets/logo/logo.png',
   './assets/index-CwCSn7Ph.js',
   './assets/index-DrDz4jAx.css',
   './manifest.json',
