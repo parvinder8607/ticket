@@ -6,12 +6,8 @@ const urlsToCache = [
   './assets/images/bottom.svg',
   './assets/images/logo.avif',
   './assets/images/qr.png',
-  './assets/images/metro.jpeg',
-  './assets/images/reload.png',
-  './assets/images/secure.png',
-  './assets/logo/logo.png',
-  './assets/index-CwCSn7Ph.js',
-  './assets/index-DrDz4jAx.css',
+  './assets/index-Dyyvgbgj.js',
+  './assets/index-DzoiQYD8.css',
   './manifest.json',
 ];
 
