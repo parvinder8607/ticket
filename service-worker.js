@@ -5,8 +5,11 @@ const urlsToCache = [
   './assets/images/alert.png',
   './assets/images/bottom.svg',
   './assets/images/logo.avif',
+  './assets/images/metro.jpeg',
   './assets/images/qr.png',
-  './assets/index-E0gQN3h4.js',
+  './assets/images/secure.png',
+  './logo/logo.png',
+  './assets/index-l0JBxjcG.j',
   './assets/index-DzoiQYD8.css',
   './manifest.json',
 ];
