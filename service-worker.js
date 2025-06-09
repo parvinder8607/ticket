@@ -9,7 +9,7 @@ const urlsToCache = [
   './assets/images/qr.png',
   './assets/images/secure.png',
   './logo/logo.png',
-  './assets/index-DFbz6HK1.js',
+  './assets/index-Cwbdo9lj.js',
   './assets/index-DzoiQYD8.css',
   './manifest.json',
 ];
