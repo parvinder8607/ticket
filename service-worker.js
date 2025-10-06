@@ -1,17 +1,17 @@
 const CACHE_NAME = 'pwa-cache-v1';
 const urlsToCache = [
-  './',
-  './index.html',
-  './assets/images/alert.png',
-  './assets/images/bottom.svg',
-  './assets/images/logo.avif',
-  './assets/images/metro.jpeg',
-  './assets/images/qr.png',
-  './assets/images/secure.png',
-  './logo/logo.png',
-  './assets/index-Cwbdo9lj.js',
-  './assets/index-DzoiQYD8.css',
-  './manifest.json',
+  './ticket/',
+  './ticket/index.html',
+  './ticket/assets/images/alert.png',
+  './ticket/assets/images/bottom.svg',
+  './ticket/assets/images/logo.avif',
+  './ticket/assets/images/metro.jpeg',
+  './ticket/assets/images/qr.png',
+  './ticket/assets/images/secure.png',
+  './ticket/logo/logo.png',
+  './ticket/assets/index-Cwbdo9lj.js',
+  './ticket/assets/index-DzoiQYD8.css',
+  './ticket/manifest.json',
 ];
 
 // Install Service Worker and Cache Files
@@ -43,3 +43,4 @@ self.addEventListener('activate', event => {
     )
   );
 });
+
