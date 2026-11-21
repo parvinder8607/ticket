@@ -3,7 +3,7 @@
  * PRECACHE below with the current build's version and file list.
  * Do not register this file directly; the built file is /service-worker.js.
  */
-const VERSION = "3dc125bb1740";
+const VERSION = "2c44ee2c19c6";
 const PRECACHE = [
   "./",
   "./index.html",
@@ -16,8 +16,8 @@ const PRECACHE = [
   "./assets/images/qr.png",
   "./assets/images/reload.png",
   "./assets/images/secure.png",
-  "./assets/index-DtCA8M_O.js",
-  "./assets/index-RgSPWIX8.css",
+  "./assets/index-B-bo5fLd.css",
+  "./assets/index-DFxJkDnd.js",
   "./assets/inter-latin-400-normal-C38fXH4l.woff2",
   "./assets/inter-latin-500-normal-Cerq10X2.woff2",
   "./assets/inter-latin-600-normal-LgqL8muc.woff2",
